@@ -3,8 +3,8 @@
 I'm Peter, I'm a Software Architect at Brink Software. We do a lot of interesting stuff on Azure using mostly .Net (Core). 
 
 - 💬 Ask me about anything Azure or .Net
-- 📫 Reach me using [twitter](https://twitter.com/Peter_Bons) or [LinkedIn](https://www.linkedin.com/in/peterbons/)
-- 👯 I love to help at [StackOverflow](https://stackoverflow.com/users/932728/peter-bons)
+- 📫 Reach me using [Twitter](https://twitter.com/Peter_Bons) or [LinkedIn](https://www.linkedin.com/in/peterbons/)
+- 👯 I love to help at [Stack Overflow](https://stackoverflow.com/users/932728/peter-bons)
 
 [![Expecho's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Expecho&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/AVS1508)
 
