@@ -22,3 +22,4 @@ These are all the repositories, next to my own, which I contributed to by commit
 |[SoCreate/service-fabric-pub-sub](https://github.com/SoCreate/service-fabric-pub-sub)|
 |[viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode)|
 |[Xabaril/AspNetCore.Diagnostics.HealthChecks](https://github.com/Xabaril/AspNetCore.Diagnostics.HealthChecks)|
+|[scautomation/Azure-Inventory-Workbook](https://github.com/scautomation/Azure-Inventory-Workbook)|
