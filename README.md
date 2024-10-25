@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Peter, I'm a Software Architect at Brink Software. We do a lot of interesting stuff on Azure using mostly .Net (Core). 
+I'm Peter, I'm a Software Architect at Brink Software. We do a lot of interesting stuff on Azure using mostly .Net. 
 
 - 💬 Ask me about anything Azure or .Net
 - 📫 Reach me using [Twitter](https://twitter.com/Peter_Bons) or [LinkedIn](https://www.linkedin.com/in/peterbons/)
